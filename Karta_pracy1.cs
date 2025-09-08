@@ -1,4 +1,5 @@
-﻿//1
+﻿//KARTA NR1
+//1
 //int a = int.Parse(Console.ReadLine());
 //int b = int.Parse(Console.ReadLine());
 //Console.WriteLine((a+b)*(a+b));
@@ -27,3 +28,12 @@
 //int a = int.Parse(Console.ReadLine());
 //int b = int.Parse(Console.ReadLine());
 //Console.WriteLine(a%b);
+
+//KARTA NR2
+//1
+//int a = int.Parse(Console.ReadLine());
+//if (a % 3 == 0) 
+//    Console.WriteLine("TAK");
+//else
+//    Console.WriteLine("NIE");
+//2
